@@ -1,6 +1,29 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## React Signup Form
+This sign up form has a few different features that are unique to React. The sign up form itself is a modal that uses CSS animations and slides down when the page loads and slides up after the user logs in. 
+
+## Implementation helpers
+
+- Using state and props
+- Form built using reusable inputs
+- CSS animations with ReactCSSTransitionGroup
+- Event handling
+- Native browser validation for forms
+
+
+## General Information
+The project was created to get hands-on experience in developing UI components with React. 
+
+
+
+## Screenshots
+
+![Screenshot 2022-08-13 at 9 17 14 AM](https://user-images.githubusercontent.com/20161096/184473892-4f827324-5e4f-4d12-8f0c-e8b6ce1f6752.png)
+
+
+## Acknowledgements
+
+- This project was based on an[online tutorial](https://www.newline.co/fullstack-react/react-daily-ui/001-sign-up-form/).
 
 ## Available Scripts
 
