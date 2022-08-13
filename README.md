@@ -1,5 +1,5 @@
 
-## React Signup Form
+## React Signup Form 
 This sign up form has a few different features that are unique to React. The sign up form itself is a modal that uses CSS animations and slides down when the page loads and slides up after the user logs in. 
 
 ## Implementation helpers
